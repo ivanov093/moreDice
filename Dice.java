@@ -74,7 +74,7 @@ public class Dice
   	
   }
   
-  // kepps count for public 
+  // keeps count for public 
   public int RollCountPublic()
   {
   	return internalCounter;

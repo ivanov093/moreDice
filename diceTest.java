@@ -22,6 +22,7 @@ public class diceTest
   	
   	System.out.printf("\n1 Public Roll: %d\n2 Public Roll: %d\nPublic Count: %d\n", 
   						numRoll, numRoll2, numPublicCount);
+              
   	
   }
 }
